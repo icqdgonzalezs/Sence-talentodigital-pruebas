@@ -1,84 +1,21 @@
-cat > README.md << 'EOF'
-# 📊 Bootcamp Análisis de Datos - SENCE Talento Digital
+# Prueba 1: Introducción al análisis de datos
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0-red?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Excel](https://img.shields.io/badge/Excel-Power_Pivot-green?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## 📊 Resumen Ejecutivo (Alto Impacto)
 
-**Portafolio de evaluaciones prácticas del bootcamp.** Proyectos enfocados en resolver problemas de negocio reales mediante limpieza de datos, análisis exploratorio, estadística inferencial y modelado de bases de datos.
+### Parte A: Las 4 Etapas del Análisis de Datos
+| Etapa | Objetivo | Acciones Clave | Herramientas |
+| :--- | :--- | :--- | :--- |
+| **1. Recopilación** | Entender los datos crudos | Importar CSV, revisar estructura (316 filas, 7 columnas) | Datos → Desde Texto/CSV |
+| **2. Limpieza** | Corregir inconsistencias | Eliminar duplicados, unificar fechas, corregir tipeo | Quitar Duplicados, Texto en Columnas |
+| **3. Análisis** | Descubrir patrones | Tablas dinámicas, KPIs, gráfico de tendencia | Tablas Dinámicas, Fórmulas |
+| **4. Comunicación** | Informar decisiones | Crear dashboard con conclusiones de negocio | Excel + Gráficos |
 
----
+### Parte B: 4 Técnicas de Limpieza Aplicadas
+| # | Problema Detectado | Técnica de Excel | Resultado |
+| :--- | :--- | :--- | :--- |
+| **1** | Filas duplicadas | **Quitar Duplicados** | Eliminación de registros duplicados |
+| **2** | Fechas en 3 formatos | **Texto en Columnas + FECHA()** | Unificación a DD/MM/AAAA |
+| **3** | Errores de tipeo | **NOMPROPIO() + Buscar/Reemplazar** | Normalización de nombres |
+| **4** | Celdas vacías | **Ir a Especial → Celdas en blanco** | Completar o eliminar registros |
 
-## 📌 Problema industrial abordado
-El bootcamp simula escenarios empresariales donde se necesita transformar datos crudos en información accionable. Cada prueba aborda un desafío específico: desde la limpieza de datos de ventas en retail, hasta el diseño de sistemas de bases de datos para gestión de proveedores, aplicando metodologías de análisis de datos.
-
-## 🎯 Objetivos del Portafolio
-
-1. Demostrar dominio en herramientas de análisis (Excel, Python, Pandas, NumPy, SQL).
-2. Aplicar técnicas de limpieza y preparación de datos para garantizar calidad.
-3. Generar visualizaciones y análisis estadísticos que apoyen la toma de decisiones.
-4. Modelar bases de datos relacionales con restricciones avanzadas.
-
----
-
-## 📂 Contenido del Repositorio
-
-| # | Prueba | Tecnología | Resultado Clave | Estado |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | [Introducción al análisis de datos](Prueba-01-Analisis-Datos) | Excel | Limpieza y modelo DAX para márgenes | ✅ Completado |
-| 2 | [Sistema de Videojuegos Retro](Prueba-02-Videojuegos-Retro) | Python | Validación de datos y análisis estadístico | ✅ Completado |
-| 3 | [Obtención y preparación de datos](Prueba-03-Preparacion-Datos) | Pandas | Tablas pivote de salarios por depto. | ✅ Completado |
-| 4 | [Análisis exploratorio de datos](Prueba-04-Analisis-Exploratorio) | Seaborn / Matplotlib | Pairplots, heatmaps y barras personalizadas | ✅ Completado |
-| 5 | [Inferencia estadística](Prueba-05-Inferencia-Estadistica) | Python / NumPy | Intervalos de confianza y pruebas de hipótesis | ✅ Completado |
-| 6 | [Diseño de tablas SQL](Prueba-06-SQL) | SQL | DDL, DML y manipulación segura con WHERE | ✅ Completado |
-
----
-
-## 🛠️ Stack Tecnológico
-
-| Herramienta | Uso |
-|---|---|
-| Python 3.11 | Lenguaje base para análisis |
-| Pandas / NumPy | Manipulación y cálculo numérico |
-| Seaborn / Matplotlib | Visualización de datos |
-| Excel | Análisis de datos y Power Pivot |
-| SQL | Modelado y manipulación de bases de datos |
-
----
-
-## 📁 Estructura del Proyecto
-
-```text
-Sence-talentodigital-pruebas/
-├── Prueba-01-Analisis-Datos/        # Excel y DAX
-├── Prueba-02-Videojuegos-Retro/     # Python
-├── Prueba-03-Preparacion-Datos/     # Pandas
-├── Prueba-04-Analisis-Exploratorio/ # Seaborn / Matplotlib
-├── Prueba-05-Inferencia-Estadistica/# Python / NumPy
-├── Prueba-06-SQL/                   # SQL
-└── README.md
-```
----
-
-## 🔎 Conclusiones y Aprendizajes Clave
-
-1. La **limpieza de datos** es fundamental para obtener insights confiables.
-2. La **inferencia estadística** permite validar hipótesis de negocio con evidencia matemática.
-3. El **modelado SQL** es esencial para estructurar la información antes del análisis.
-4. Este portafolio demuestra la evolución desde el análisis descriptivo hasta el análisis inferencial y de bases de datos.
-
----
-
-## 👤 Autor
-
-**David González** – Ingeniero Civil Químico | Data Analytics | Mejora Continua  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_González-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
-[![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=flat&logo=github&logoColor=white)](https://github.com/icqdgonzalezs)
-[![Email](https://img.shields.io/badge/Email-icq.dgonzalezs%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
-
----
-
-*Proyecto desarrollado como parte del bootcamp de Análisis de Datos - SENCE Talento Digital.*
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-01-Analisis-Datos/enunciado.pdf)
