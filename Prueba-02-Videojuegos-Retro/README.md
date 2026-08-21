@@ -2,3 +2,5 @@
 **Herramienta:** Python
 **Objetivo:** Gestionar torneo de videojuegos con equipos.
 **Resultado:** Implementé validaciones de datos y análisis estadístico del rendimiento.
+
+📄 **Ver enunciado:** [enunciado.pdf](enunciado.pdf)
