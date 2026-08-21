@@ -33,13 +33,24 @@ Tras recibir feedback del docente, agregué el cálculo de **Margen de Ganancia*
 ## 📸 Evidencia Visual por Pregunta
 
 ### Pregunta 1: Análisis Conceptual y Limpieza
-![Análisis Conceptual](pregunta1_conceptual.png)
+<p align="center">
+  <img src="pregunta1_conceptual.png" alt="Análisis Conceptual" width="800">
+</p>
 
 ### Pregunta 2: Estadísticas Descriptivas y Visualización
-![Estadísticas](pregunta2_estadisticas.png)
+<p align="center">
+  <img src="pregunta2_estadisticas.png" alt="Estadísticas" width="800">
+</p>
+
+### Pregunta 2 (Complemento): Estadísticas Detalladas
+<p align="center">
+  <img src="pregunta2.1_estadisticas.png" alt="Estadísticas Detalladas" width="800">
+</p>
 
 ### Pregunta 3: Cálculo de Margen de Ganancia (BUSCARV + DAX)
-![Margen de Ganancia](pregunta3_margen.png)
+<p align="center">
+  <img src="pregunta3_margen.png" alt="Margen de Ganancia" width="800">
+</p>
 
 ## 💼 Impacto de Negocio
 Este modelo permitió identificar qué productos generan mayores márgenes, permitiendo optimizar el inventario y las estrategias de venta. La categoría "Computación" genera mayor ingreso, pero "Tecnología" presenta mejor margen.
