@@ -10,4 +10,4 @@ Diseñar una base de datos con restricciones avanzadas.
 ## 📊 Resultado
 Implementé claves primarias, validé datos erróneos y ejecuté updates/delete seguros con WHERE.
 
-📄 **Ver enunciado original:** [enunciado.pdf](enunciado.pdf)
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-06-SQL/enunciado.pdf)

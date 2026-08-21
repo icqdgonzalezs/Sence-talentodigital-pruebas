@@ -10,4 +10,4 @@ Integrar, agrupar y pivotear datos.
 ## 📊 Resultado
 Creé tablas pivote con salarios promedio por departamento y ubicación.
 
-📄 **Ver enunciado original:** [enunciado.pdf](enunciado.pdf)
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-03-Preparacion-Datos/enunciado.pdf)

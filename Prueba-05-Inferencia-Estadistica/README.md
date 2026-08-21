@@ -10,4 +10,4 @@ Aplicar estadística inferencial.
 ## 📊 Resultado
 Calculé intervalos de confianza y pruebas de hipótesis sobre datos de satisfacción.
 
-📄 **Ver enunciado original:** [enunciado.pdf](enunciado.pdf)
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-05-Inferencia-Estadistica/enunciado.pdf)

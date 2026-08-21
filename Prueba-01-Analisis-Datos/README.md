@@ -10,4 +10,4 @@ Limpiar datos y calcular métricas de ventas.
 ## 📊 Resultado
 Apliqué técnicas de limpieza y creé un modelo con DAX para calcular márgenes.
 
-📄 **Ver enunciado original:** [enunciado.pdf](enunciado.pdf)
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-01-Analisis-Datos/enunciado.pdf)

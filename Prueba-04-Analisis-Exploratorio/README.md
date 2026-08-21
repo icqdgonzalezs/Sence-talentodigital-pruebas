@@ -10,4 +10,4 @@ Visualizar relaciones entre variables.
 ## 📊 Resultado
 Generé pairplots, heatmaps y gráficos de barras personalizados con Matplotlib.
 
-📄 **Ver enunciado original:** [enunciado.pdf](enunciado.pdf)
+📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-04-Analisis-Exploratorio/enunciado.pdf)
