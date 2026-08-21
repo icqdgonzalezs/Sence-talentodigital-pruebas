@@ -58,6 +58,9 @@ Sence-talentodigital-pruebas/
 ├── Prueba-05-Inferencia-Estadistica/# Python / NumPy
 ├── Prueba-06-SQL/                   # SQL
 └── README.md
+```
+
+---
 
 ## 🔎 Conclusiones y Aprendizajes Clave
 
