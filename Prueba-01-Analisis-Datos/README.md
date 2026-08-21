@@ -1,6 +1,6 @@
 # Prueba 1: Introducción al análisis de datos
 
-## 📊 Resumen Ejecutivo (Alto Impacto)
+## 📊 Resumen Ejecutivo
 
 ### Parte A: Las 4 Etapas del Análisis de Datos
 | Etapa | Objetivo | Acciones Clave | Herramientas |
