@@ -51,6 +51,7 @@ El bootcamp simula escenarios empresariales donde se necesita transformar datos 
 
 ```
 Sence-talentodigital-pruebas/
+
 ├── Prueba-01-Analisis-Datos/        # Excel y DAX
 ├── Prueba-02-Videojuegos-Retro/     # Python
 ├── Prueba-03-Preparacion-Datos/     # Pandas
