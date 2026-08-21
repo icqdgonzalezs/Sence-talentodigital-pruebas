@@ -1,3 +1,5 @@
+cd "Prueba-01-Analisis-Datos"
+cat > README.md << 'EOF'
 # Prueba 1: Introducción al análisis de datos
 [![Excel](https://img.shields.io/badge/Excel-F%C3%B3rmulas_y_An%C3%A1lisis-green?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/)
 
@@ -48,3 +50,5 @@ Este modelo permitió identificar qué productos generan mayores márgenes, perm
 
 ---
 **[⬆️ Volver al repositorio principal](../README.md)**
+EOF
+cd ..

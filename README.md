@@ -1,9 +1,10 @@
+cat > README.md << 'EOF'
 # 📊 Bootcamp Análisis de Datos - SENCE Talento Digital
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-red?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.26-orange?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-Excel-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-Power_Pivot-green?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 **Portafolio de evaluaciones prácticas del bootcamp.** Proyectos enfocados en resolver problemas de negocio reales mediante limpieza de datos, análisis exploratorio, estadística inferencial y modelado de bases de datos.
@@ -26,12 +27,12 @@ El bootcamp simula escenarios empresariales donde se necesita transformar datos 
 
 | # | Prueba | Tecnología | Resultado Clave | Estado |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Introducción al análisis de datos | Excel | Limpieza y modelo DAX para márgenes | ✅ Completado |
-| 2 | Sistema de Videojuegos Retro | Python | Validación de datos y análisis estadístico | ✅ Completado |
-| 3 | Obtención y preparación de datos | Pandas | Tablas pivote de salarios por depto. | ✅ Completado |
-| 4 | Análisis exploratorio de datos | Seaborn / Matplotlib | Pairplots, heatmaps y barras personalizadas | ✅ Completado |
-| 5 | Inferencia estadística | Python / NumPy | Intervalos de confianza y pruebas de hipótesis | ✅ Completado |
-| 6 | Diseño de tablas SQL | SQL | DDL, DML y manipulación segura con WHERE | ✅ Completado |
+| 1 | [Introducción al análisis de datos](Prueba-01-Analisis-Datos) | Excel | Limpieza y modelo DAX para márgenes | ✅ Completado |
+| 2 | [Sistema de Videojuegos Retro](Prueba-02-Videojuegos-Retro) | Python | Validación de datos y análisis estadístico | ✅ Completado |
+| 3 | [Obtención y preparación de datos](Prueba-03-Preparacion-Datos) | Pandas | Tablas pivote de salarios por depto. | ✅ Completado |
+| 4 | [Análisis exploratorio de datos](Prueba-04-Analisis-Exploratorio) | Seaborn / Matplotlib | Pairplots, heatmaps y barras personalizadas | ✅ Completado |
+| 5 | [Inferencia estadística](Prueba-05-Inferencia-Estadistica) | Python / NumPy | Intervalos de confianza y pruebas de hipótesis | ✅ Completado |
+| 6 | [Diseño de tablas SQL](Prueba-06-SQL) | SQL | DDL, DML y manipulación segura con WHERE | ✅ Completado |
 
 ---
 
@@ -49,9 +50,8 @@ El bootcamp simula escenarios empresariales donde se necesita transformar datos 
 
 ## 📁 Estructura del Proyecto
 
-```
+```text
 Sence-talentodigital-pruebas/
-
 ├── Prueba-01-Analisis-Datos/        # Excel y DAX
 ├── Prueba-02-Videojuegos-Retro/     # Python
 ├── Prueba-03-Preparacion-Datos/     # Pandas
@@ -60,7 +60,6 @@ Sence-talentodigital-pruebas/
 ├── Prueba-06-SQL/                   # SQL
 └── README.md
 ```
-
 ---
 
 ## 🔎 Conclusiones y Aprendizajes Clave
