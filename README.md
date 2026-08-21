@@ -58,20 +58,24 @@ Sence-talentodigital-pruebas/
 ├── Prueba-05-Inferencia-Estadistica/# Python / NumPy
 ├── Prueba-06-SQL/                   # SQL
 └── README.md
-🔎 Conclusiones y Aprendizajes Clave
-La limpieza de datos es fundamental para obtener insights confiables.
 
-La inferencia estadística permite validar hipótesis de negocio con evidencia matemática.
+## 🔎 Conclusiones y Aprendizajes Clave
 
-El modelado SQL es esencial para estructurar la información antes del análisis.
+1. La **limpieza de datos** es fundamental para obtener insights confiables.
+2. La **inferencia estadística** permite validar hipótesis de negocio con evidencia matemática.
+3. El **modelado SQL** es esencial para estructurar la información antes del análisis.
+4. Este portafolio demuestra la evolución desde el análisis descriptivo hasta el análisis inferencial y de bases de datos.
 
-Este portafolio demuestra la evolución desde el análisis descriptivo hasta el análisis inferencial y de bases de datos.
+---
 
-👤 Autor
-David González – Ingeniero Civil Químico | Data Analytics | Mejora Continua
+## 👤 Autor
 
-https://img.shields.io/badge/LinkedIn-David_Gonz%25C3%25A1lez-0A66C2?style=flat&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=flat&logo=github&logoColor=white
-https://img.shields.io/badge/Email-icq.dgonzalezs%2540gmail.com-EA4335?style=flat&logo=gmail&logoColor=white
+**David González** – Ingeniero Civil Químico | Data Analytics | Mejora Continua  
 
-Proyecto desarrollado como parte del bootcamp de Análisis de Datos - SENCE Talento Digital.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Gonz%C3%A1lez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidgonzalezsz)
+[![GitHub](https://img.shields.io/badge/GitHub-icqdgonzalezs-181717?style=flat&logo=github&logoColor=white)](https://github.com/icqdgonzalezs)
+[![Email](https://img.shields.io/badge/Email-icq.dgonzalezs%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:icq.dgonzalezs@gmail.com)
+
+---
+
+*Proyecto desarrollado como parte del bootcamp de Análisis de Datos - SENCE Talento Digital.*
