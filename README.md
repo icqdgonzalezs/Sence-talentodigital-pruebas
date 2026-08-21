@@ -49,15 +49,15 @@ El bootcamp simula escenarios empresariales donde se necesita transformar datos 
 
 ## 📁 Estructura del Proyecto
 
+```text
 Sence-talentodigital-pruebas/
-├── Prueba-01-Analisis-Datos/ (Excel y DAX)
-├── Prueba-02-Videojuegos-Retro/ (Python)
-├── Prueba-03-Preparacion-Datos/ (Pandas)
-├── Prueba-04-Analisis-Exploratorio/(Seaborn/Matplotlib)
-├── Prueba-05-Inferencia-Estadistica/(Python/NumPy)
-├── Prueba-06-SQL/ (SQL)
+├── Prueba-01-Analisis-Datos/        # Excel y DAX
+├── Prueba-02-Videojuegos-Retro/     # Python
+├── Prueba-03-Preparacion-Datos/     # Pandas
+├── Prueba-04-Analisis-Exploratorio/ # Seaborn / Matplotlib
+├── Prueba-05-Inferencia-Estadistica/# Python / NumPy
+├── Prueba-06-SQL/                   # SQL
 └── README.md
-
 
 
 ---
