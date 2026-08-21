@@ -1,21 +1,13 @@
 # Prueba 1: Introducción al análisis de datos
+**Herramienta:** Excel
 
-## 📊 Resumen Ejecutivo
+## 📜 Enunciado
+"En una empresa de retail, te entregan una base de datos de ventas y te piden analizar las tendencias. Describe las 4 etapas principales del proceso de análisis de datos que seguirías y explica brevemente qué harías en cada una. Además, se te proporciona un conjunto de datos con celdas vacías, filas duplicadas, formatos de fecha variables y errores de escritura en los nombres de productos. Enumera 4 técnicas específicas de Excel que utilizarías para limpiar estos datos y explica por qué las usarías."
 
-### Parte A: Las 4 Etapas del Análisis de Datos
-| Etapa | Objetivo | Acciones Clave | Herramientas |
-| :--- | :--- | :--- | :--- |
-| **1. Recopilación** | Entender los datos crudos | Importar CSV, revisar estructura (316 filas, 7 columnas) | Datos → Desde Texto/CSV |
-| **2. Limpieza** | Corregir inconsistencias | Eliminar duplicados, unificar fechas, corregir tipeo | Quitar Duplicados, Texto en Columnas |
-| **3. Análisis** | Descubrir patrones | Tablas dinámicas, KPIs, gráfico de tendencia | Tablas Dinámicas, Fórmulas |
-| **4. Comunicación** | Informar decisiones | Crear dashboard con conclusiones de negocio | Excel + Gráficos |
+## 🎯 Objetivo
+Limpiar datos y calcular métricas de ventas.
 
-### Parte B: 4 Técnicas de Limpieza Aplicadas
-| # | Problema Detectado | Técnica de Excel | Resultado |
-| :--- | :--- | :--- | :--- |
-| **1** | Filas duplicadas | **Quitar Duplicados** | Eliminación de registros duplicados |
-| **2** | Fechas en 3 formatos | **Texto en Columnas + FECHA()** | Unificación a DD/MM/AAAA |
-| **3** | Errores de tipeo | **NOMPROPIO() + Buscar/Reemplazar** | Normalización de nombres |
-| **4** | Celdas vacías | **Ir a Especial → Celdas en blanco** | Completar o eliminar registros |
+## 📊 Resultado
+Apliqué técnicas de limpieza y creé un modelo con DAX para calcular márgenes.
 
 📄 **Ver enunciado original:** [⬇️ Descargar enunciado (PDF)](https://github.com/icqdgonzalezs/Sence-talentodigital-pruebas/raw/main/Prueba-01-Analisis-Datos/enunciado.pdf)
